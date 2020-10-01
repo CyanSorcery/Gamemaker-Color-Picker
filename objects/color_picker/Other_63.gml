@@ -27,6 +27,4 @@ if (our_id == async_msg_id)
 	}
 	
 	async_msg_id = -1;
-	
-
 }
