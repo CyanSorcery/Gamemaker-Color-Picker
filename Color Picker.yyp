@@ -4,7 +4,7 @@
     {"id":{"name":"small_font","path":"fonts/small_font/small_font.yy",},"order":0,},
     {"id":{"name":"checker_bg","path":"sprites/checker_bg/checker_bg.yy",},"order":2,},
     {"id":{"name":"hslider_sprite","path":"sprites/hslider_sprite/hslider_sprite.yy",},"order":1,},
-    {"id":{"name":"real_to_hex","path":"scripts/real_to_hex/real_to_hex.yy",},"order":0,},
+    {"id":{"name":"utility","path":"scripts/utility/utility.yy",},"order":0,},
     {"id":{"name":"hitbox","path":"sprites/hitbox/hitbox.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],

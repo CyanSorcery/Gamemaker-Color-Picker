@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "real_to_hex",
+  "name": "utility",
   "tags": [],
   "resourceType": "GMScript",
 }
