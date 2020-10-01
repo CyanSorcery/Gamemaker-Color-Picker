@@ -2,7 +2,6 @@
   "resources": [
     {"id":{"name":"color_picker","path":"objects/color_picker/color_picker.yy",},"order":0,},
     {"id":{"name":"small_font","path":"fonts/small_font/small_font.yy",},"order":0,},
-    {"id":{"name":"pad_string","path":"scripts/pad_string/pad_string.yy",},"order":1,},
     {"id":{"name":"checker_bg","path":"sprites/checker_bg/checker_bg.yy",},"order":2,},
     {"id":{"name":"hslider_sprite","path":"sprites/hslider_sprite/hslider_sprite.yy",},"order":1,},
     {"id":{"name":"real_to_hex","path":"scripts/real_to_hex/real_to_hex.yy",},"order":0,},
