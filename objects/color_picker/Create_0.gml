@@ -24,3 +24,6 @@ copied_timer		= 0;
 //what row and column to change
 val_to_change		= -1;
 col_to_change		= -1;
+
+//for when we get a color from the user
+async_msg_id		= -1;

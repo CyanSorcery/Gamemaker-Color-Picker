@@ -174,6 +174,7 @@ hexcodecol			+= pad_string(real_to_hex(green_val), 2, "0");
 hexcodecol			+= pad_string(real_to_hex(blue_val), 2, "0");
 hexcodecol			+= "  ";
 var bottomtext		= (copied_timer > 0 ? "Copied to clipboard!!!!!" : "Right Click to Copy GML Hex Code");
+bottomtext			+= "\r\nLeft Click here to enter color string";
 var final_str		= gamemakerstr + "\r\n" + hexcodecol + "\r\n\r\n" + bottomtext;
 
 draw_text((360 / 2) + 360, (vert_chunk_size * 4) + (vert_chunk_size / 2), final_str);
