@@ -1,2 +1,4 @@
 # Gamemaker-Color-Picker
-Color picker that creates Gamemaker color strings to be used in project files.
+This is a simple color picker for Gamemaker projects that creates Gamemaker color strings for use in projects. The color strings are compatible with any version of Gamemaker.
+
+
