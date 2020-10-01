@@ -1,0 +1,1 @@
+copied_timer = max(copied_timer - 1, 0);
